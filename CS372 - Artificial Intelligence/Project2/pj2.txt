@@ -1,0 +1,12 @@
+I have neither given nor received unauthorized aid on this program.
+
+1. What bugs and conceptual difficulties did you encounter? How did you overcome them? What did you learn?
+	The hardest part was implementing the heuristic function, especially when I have to count the diagonal streaks. I ended up turning all diagonals into 1D arrays and count the number of streak in each array.
+2. Describe whatever help (if any) that you received. Don’t include readings, lectures, and exercises, but do include any help from other sources, such as websites or people (including classmates and friends) and attribute them by name.
+	I didn't receive any help.
+3. Describe any serious problems you encountered while writing the program.
+	I didn't encounter any serious problems.
+4. Explain your heuristic that you invented for Part C.
+	I count the number of 3-in-a-rows and 2-in-a-rows in a given state. If there is no space at both ends of a streak, I'll ignore it. If there is space at one end, I give 100 points to 3-in-a-rows and 10 to 2-in-a-rows. If there is space at both ends, I give 2000 points to 3-in-a-rows and 30 to 2-in-a-rows.
+5. List any other feedback you have. Feel free to provide any feedback on how much you learned from doing the assignment, and whether you enjoyed doing it.
+	This project was fun.

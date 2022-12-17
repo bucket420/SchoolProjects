@@ -1,0 +1,4 @@
+*.o
+src/my_shell
+src/environment_test
+src/argument_test

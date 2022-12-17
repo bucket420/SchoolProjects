@@ -1,0 +1,5 @@
+*.o
+src/stress_test
+src/word_count
+src/idriver
+

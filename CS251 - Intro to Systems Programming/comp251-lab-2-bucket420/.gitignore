@@ -1,0 +1,4 @@
+*.o
+src/answers
+src/narrative.txt
+src/dictionary.txt

@@ -1,0 +1,10 @@
+*.o
+*.so
+src/books-input
+src/idx-output
+ii-main
+tp_test
+ll_test
+__pycache__/
+*.pyc
+*.pyo

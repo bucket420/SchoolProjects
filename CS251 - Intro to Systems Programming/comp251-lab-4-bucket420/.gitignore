@@ -1,0 +1,13 @@
+src/notes
+src/disk_array_driver
+src/block_list_driver
+src/strtable_driver
+src/stardata
+src/paramsdata
+src/tripdata
+src/nav_system
+*.o
+*.so
+*.ll
+*.stb
+*.arr
