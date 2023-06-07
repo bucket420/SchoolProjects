@@ -1,0 +1,11 @@
+#!/bin/bash
+#SBATCH --job-name="lab2_1000_24"
+#SBATCH --output="lab2_1000_24.%j.%N.out"
+#SBATCH --partition=compute
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=48
+#SBATCH --export=ALL
+#SBATCH -t 00:30:00
+
+$HOME/comp380-omp-matrix/lab2 1000 24

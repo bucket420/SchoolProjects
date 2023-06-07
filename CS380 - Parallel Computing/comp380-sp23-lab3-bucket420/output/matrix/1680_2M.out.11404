@@ -1,0 +1,7 @@
+beginning N-body simulation of 2000000 bodies with 1680 processes over 5 timesteps
+timestep 0: 12946.8571 ms
+timestep 1: 13000.9686 ms
+timestep 2: 12822.8816 ms
+timestep 3: 12797.4262 ms
+timestep 4: 12812.8455 ms
+total time: 64504.5334 ms
